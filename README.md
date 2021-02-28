@@ -1,1 +1,1 @@
-# SK2-hangman
+# hangman
